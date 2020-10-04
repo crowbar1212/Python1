@@ -15,7 +15,7 @@ In order to replicate this program, do the following:
 
 
 
-Snapshot proof of code working: https://imgur.com/gallery/wYfOn3n
+Snapshot proof of code working: https://imgur.com/gallery/m8mivWO
 
 Helping sources: 
 https://pynative.com/python-check-user-input-is-number-or-string/
